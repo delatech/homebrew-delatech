@@ -7,7 +7,7 @@ class Htail < Formula
     version '0.0.3'
 
     url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/htail/htail-0.0.3.tar.gz'
-    sha1 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/htail/htail-0.0.3.sha1'
+    sha1 '994d8827b6ba896cb7fee672bd9f2c0f889611d6'
 
     depends_on :arch => :intel
 
