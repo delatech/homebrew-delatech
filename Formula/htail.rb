@@ -4,10 +4,10 @@ require 'formula'
 
 class Htail < Formula
     homepage 'https://github.com/delatech/htail'
-    version '0.0.5'
+    version '0.0.6'
 
-    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/htail/htail-0.0.5.tar.gz'
-    sha1 '49e141fee49bfcbf814a383add3a9ed457eff53f'
+    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/htail/htail-0.0.6.tar.gz'
+    sha1 '459ac00ec4a702c787981fe8ddf5372f94f0545d'
 
     depends_on :arch => :intel
 
