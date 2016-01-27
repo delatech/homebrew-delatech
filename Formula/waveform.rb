@@ -4,10 +4,10 @@ require 'formula'
 
 class Waveform < Formula
     homepage 'https://github.com/delatech/waveform'
-    version '0.2'
+    version '0.3'
 
-    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/waveform/waveform-0.2.tar.gz'
-    sha1 'd3b6a9f3903485b948a8123235119600815cbd3e'
+    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/waveform/waveform-0.3.tar.gz'
+    sha1 'b8d542d80d912a61aab08e38f5b844ce7d575f76'
 
     depends_on :arch => :intel
 
