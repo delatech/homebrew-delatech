@@ -7,7 +7,7 @@ class Waveform < Formula
     version '0.2'
 
     url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/waveform/waveform-0.2.tar.gz'
-    sha1 'fb906b2d99523b26962740ed1e9b5402d28a943b'
+    sha1 'd3b6a9f3903485b948a8123235119600815cbd3e'
 
     depends_on :arch => :intel
 
