@@ -4,10 +4,10 @@ require 'formula'
 
 class Colorart < Formula
     homepage 'https://github.com/delatech/colorart'
-    version '0.0.1'
+    version '0.1.0'
 
-    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/colorart/colorart-0.0.1.tar.gz'
-    sha1 '7b3985713d8468c01fc3ba46679552c3f34e068c'
+    url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/colorart/colorart-0.1.0.tar.gz'
+    sha1 '21114c409a14138e1404fcb915eae5cc0d497e9d'
 
     depends_on :arch => :intel
 
