@@ -7,7 +7,7 @@ class Htail < Formula
     version '0.0.8'
 
     url 'http://release.delatech.net.s3-website-eu-west-1.amazonaws.com/htail/htail-0.0.8.tar.gz'
-    sha1 'b8f4ba598a435b6d28def31d3c5a9a94b2e3e37c'
+    sha256 'd43882d53e6a6517710179588d175567aa4cd2852131f4bfaf768f16d10a72e4'
 
     depends_on :arch => :intel
 

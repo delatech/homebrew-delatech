@@ -3,7 +3,7 @@ require 'formula'
 class CtagsBetterPhp < Formula
   homepage 'http://ctags.sourceforge.net/'
   url 'https://github.com/shawncplus/phpcomplete.vim/raw/master/misc/ctags-5.8_better_php_parser.tar.gz'
-  sha1 '24167d881f6c5827b96564d64c14ec9ee1b2273c'
+  sha256 'eb21430e13f41ab7f1080137c365a60ff4bbddc4361017e674d67f195f79cbdf'
 
   def install
     system "./configure", "--prefix=#{prefix}",
